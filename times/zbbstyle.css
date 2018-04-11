@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.dq {
+    height: 15px;
+    font-size: 10px;
+    line-height: 15px;
+    padding-left: 10px;
+    background: #eee;
+    color: #ccc;
+}
