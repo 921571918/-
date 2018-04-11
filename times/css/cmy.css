@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.list-all {
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.list-all>span:hover {
+    background: #ccc;
+}
